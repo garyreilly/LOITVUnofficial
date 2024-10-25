@@ -1,5 +1,7 @@
 # LOITVUnofficial
 
+HON THE TOWN 🔴⚫
+
 Android/Fire TV APK and Kodi plugin for LOITV. 
 
 You need a valid LOITV.ie subscription to view content via this application. This application logs into LOITV.ie and plays content as if you were logged into the website.
